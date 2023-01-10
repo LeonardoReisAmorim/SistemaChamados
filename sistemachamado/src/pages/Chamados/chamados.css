@@ -1,0 +1,79 @@
+.flexbutton{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.novochamado{
+    margin-top: 1.5%;
+    margin-right: 2.5%;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    border: 0;
+    background-color: #13c013;
+}
+
+table{
+    border-collapse: collapse;
+    table-layout: fixed ;
+    width: 100% ;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    width: 25%;
+}
+
+.statuschamado{
+    width: 150px;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #13c013;
+    color: #fff;
+}
+
+
+.bodychamados{
+    background-color: #fff;
+    width: 95%;
+    height: 75%;
+    border-radius: 10px;
+    margin: 1% 0 0 2.5%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.acoes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.lupachamado{
+    background-color: #0000ff;
+    margin-right: 5%;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    padding-top: 2%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.editarchamado{
+    background-color: #ffa500;
+    margin-right: 5%;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    padding-top: 2%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.columnstatus{
+    display: flex;
+    justify-content: center;
+}

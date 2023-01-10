@@ -1,0 +1,10 @@
+.header{
+    background-color: #fff;
+    padding: 2rem;
+    font-weight: bold;
+    margin: 1% 0 0 2.5%;
+    font-size: 2rem;
+    width: 95%;
+    height: 10%;
+    border-radius: 10px;
+}
